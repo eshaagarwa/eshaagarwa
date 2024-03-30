@@ -58,6 +58,9 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/simplified"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplified learner" /></a></p><br><br>
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -66,6 +69,9 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eshaagarwa&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=eshaagarwa&theme=vue-dark" /></p>
+
 
 ### 🤝🏻 &nbsp;Connect with Me
 
