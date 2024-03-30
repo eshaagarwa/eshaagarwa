@@ -1,11 +1,21 @@
-### 
+
 
 <p align="center"> 
  ✨<br>𝑻𝒉𝒆 𝒓𝒐𝒂𝒅 𝒕𝒐 𝒘𝒊𝒔𝒅𝒐𝒎? - 𝑾𝒆𝒍𝒍, 𝒊𝒕'𝒔 𝒑𝒍𝒂𝒊𝒏 𝒂𝒏𝒅 𝒔𝒊𝒎𝒑𝒍𝒆 𝒕𝒐 𝒆𝒙𝒑𝒓𝒆𝒔𝒔: 𝑬𝒓𝒓 𝒂𝒏𝒅 𝒆𝒓𝒓 𝒂𝒏𝒅 𝒆𝒓𝒓 𝒂𝒈𝒂𝒊𝒏 𝒃𝒖𝒕 𝒍𝒆𝒔𝒔 𝒂𝒏𝒅 𝒍𝒆𝒔𝒔 𝒂𝒏𝒅 𝒍𝒆𝒔𝒔.<br>🖥️
 </p>
+<p align="center"> 
+  
+  <a href="https://www.linkedin.com/in/codewithesha/">
+  <img align="left" alt="Esha's LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /> </a>
+  <a href="https://twitter.com/eshaAga7302"><img align="left" alt= "Esha Agarwal | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" /> </a>
+  <img align="left" alt="CoderGuy" width="3%" src="https://www.csm.ornl.gov/~sheldon/ds/images/book_q.gif" >
+  <img align="right" src="https://komarev.com/ghpvc/?username=eshaagarwa&label=Profile%20views&color=0e75b6&style=flat" alt="eshaagarwa" />
+  <img align="right" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
+  
+  <img align="center" width="100%" src="https://github.com/eshaagarwa/eshaagarwa/blob/main/ESHA%20AGARWAL.gif">
+</p>
 
 
-[Esha Agarwal Banner](https://github.com/eshaagarwa/eshaagarwa/blob/main/ESHA%20AGARWAL.gif)
 
 <img alt="Night Coding" src="Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Esha</h2>
 
