@@ -79,10 +79,8 @@
 <a href="https://www.esha.agarwal_cs20@ga.ac.in"><img src="https://img.shields.io/badge/-esha.agarwal_cs20@ga.ac.in-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/codewithesha/"><img src="https://img.shields.io/badge/-esha-20%-agarwal-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
-<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
+
+<a href="https://www.behance.net/designwithesha"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
 </p>
 
 
@@ -90,6 +88,8 @@
   <a href="https://leetcode.com/eshaaaagarwal996/"> <img align="left" src="https://img.shields.io/badge/-LeetCode-FFA116?logo=LeetCode&logoColor=black"> </a>
   <a href="https://codeforces.com/profile/eshaaaagarwal99"> <img align="left" src="https://img.shields.io/badge/Codeforces-445f9d?logo=Codeforces&logoColor=white"> </a>
   <a href="https://www.codechef.com/users/eshaaaagarwal9"> <img align="left" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?logo=CodeChef&logoColor=white"> </a> 
+  <a href="https://auth.geeksforgeeks.org/user/eshaaaagarwal996"> <img align="left" src="https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?logo=GeeksforGeeks&logoColor=white"> </a>
+
   <br> <br>
 
 <br>
