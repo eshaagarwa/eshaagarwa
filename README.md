@@ -73,15 +73,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=eshaagarwa&theme=vue-dark" /></p>
 
 
-### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
-<a href="https://www.esha.agarwal_cs20@ga.ac.in"><img src="https://img.shields.io/badge/-esha.agarwal_cs20@ga.ac.in-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/codewithesha/"><img src="https://img.shields.io/badge/-esha-20%-agarwal-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-
-<a href="https://www.behance.net/designwithesha"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
-</p>
 
 
 ### See me at:
@@ -89,6 +81,7 @@
   <a href="https://codeforces.com/profile/eshaaaagarwal99"> <img align="left" src="https://img.shields.io/badge/Codeforces-445f9d?logo=Codeforces&logoColor=white"> </a>
   <a href="https://www.codechef.com/users/eshaaaagarwal9"> <img align="left" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?logo=CodeChef&logoColor=white"> </a> 
   <a href="https://auth.geeksforgeeks.org/user/eshaaaagarwal996"> <img align="left" src="https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?logo=GeeksforGeeks&logoColor=white"> </a>
+  <a href="https://www.behance.net/designwithesha"> <img align="left" src="https://img.shields.io/badge/Behance-%1769FF.svg?logo=Behance&logoColor=white"> </a>
 
   <br> <br>
 
