@@ -12,7 +12,7 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=eshaagarwa&label=Profile%20views&color=0e75b6&style=flat" alt="eshaagarwa" />
   <img align="right" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
   
-  <img align="center" width="100%" src="https://github.com/eshaagarwa/eshaagarwa/blob/main/ESHA%20AGARWAL.gif">
+  <img align="center" width="100%" src="https://github.com/eshaagarwa/eshaagarwa/blob/main/ESHA%20AGARWAL%20(1).gif">
 </p>
 
 
