@@ -29,7 +29,7 @@
 ✍️ &nbsp;In my free time, I pursue Graphic Design and ux-ui as hobbies/side hustles.\
 💞️ I’m looking to collaborate in the field of Computational Sciences and Developoment of World Society.\
 🏫 I'm currently studying Salesforce Development (Apex & LWC)
-✉️ &nbsp;You can shoot me an email at esha.agarwal_cs20@gla.ac.in I'll try to connect.
+✉️ &nbsp;You can shoot me an email at eshaaaagarwal996@gmail.com I'll try to connect.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
