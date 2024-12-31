@@ -35,7 +35,8 @@
 
 ### 🛠️ &nbsp;Live Project
  - Megamaxservices --[https://www.maxservice.digital/]
- - Roasguy--[https:www.roasguy.com/]
+ - Roasguy--[https://www.roasguy.com/]
+   
 ### 🛠 &nbsp;Tech Stack
 ![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel)&nbsp;
 ![Notion](https://img.shields.io/badge/-Notion-05122A?style=flat&logo=notion)&nbsp;
